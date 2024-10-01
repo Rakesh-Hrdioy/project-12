@@ -1,0 +1,59 @@
+/* hero section  */
+
+.hero{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    /* align-items: center; */
+}
+
+.hero-section-content{
+    padding: 10px;
+    width: 70%;
+    font-size: 10;
+}
+
+.hero-section-content button{
+    background-color: #22aa78;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: none;
+}
+
+/* hero section end */
+
+/* main screen section  */
+
+.main-screen-taital{
+    display: flex;
+    justify-content: center;
+    color: #c084fc;
+}
+
+/* card styl code  */
+
+.col-styl{
+    margin: 2px 2px;
+    padding: 2px 2px;
+}
+.card-styl{
+font-size: small;
+}
+
+/* footer section  */
+
+.fot-main-tai{
+    margin: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    opacity: .5;
+    font-weight: 700;
+    color: white;
+}
+
+.fot-sub-tai{
+    cursor: pointer;
+    font-weight: 600;
+    color: rgb(53 89 102);
+}
